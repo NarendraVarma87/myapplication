@@ -1,3 +1,7 @@
+# This is the basic example to implement props and map functions in react using Functional Components only This process makes code readable and easy to write and understand.
+# Flow 
+Data.js =>> App.js =>> Header.js
+we use only map and props and it is very basic things in react 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
