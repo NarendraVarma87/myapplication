@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.sss{
+  text-align: center;
+  background: #FFFFFF;
+  padding :5px 10px 15px;
+  text-decoration:dotted;
+  color:aqua
+}
+
+
